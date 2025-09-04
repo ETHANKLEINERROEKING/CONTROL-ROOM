@@ -1,0 +1,234 @@
+2201123G
+2203129G
+2201122G
+2201122C
+2206122SC
+22081212C
+2112123AG
+2112123AC
+2109119BC
+M2002J9G
+M2007J1SC
+M2007J17I
+M2102J2SC
+M2007J3SY
+M2007J17G
+M2007J3SG
+M2011K2G
+M2101K9AG 
+M2101K9R
+2109119DG
+M2101K9G
+2109119DI
+M2012K11G
+M2102K1G
+21081111RG
+2107113SG
+21051182G
+M2105K81AC
+M2105K81C
+21061119DG
+21121119SG
+22011119UY
+21061119AG
+21061119AL
+22041219NY
+22041219G
+21061119BI 
+220233L2G 
+220233L2I 
+220333QNY 
+220333QAG 
+M2004J7AC 
+M2004J7BC 
+M2004J19C 
+M2006C3MII 
+M2010J19SI 
+M2006C3LG 
+M2006C3LVG 
+M2006C3MG 
+M2006C3MT 
+M2006C3MNG 
+M2006C3LII 
+M2010J19SL 
+M2010J19SG 
+M2010J19SY 
+M2012K11AC 
+M2012K10C 
+M2012K11C 
+22021211RC
+M2101K7AG
+M2003J15SC
+M2004J19C
+M2006C3LG
+M2007J20CG
+M2010J19CG
+M2011K2C
+M2012K11AG
+M2101K7BG
+M2101K9G
+M2102J20SG
+M2102K1G
+M2003J15SC
+Redmi Note 11
+Mi 10
+Poco X3
+Redmi Note 8
+Mi A2
+Redmi 9A
+Redmi Note 9 Pro
+Mi 11
+Redmi K20
+Poco F1
+Redmi Note 7
+Redmi Note 8T
+Mi 9
+Redmi 7A
+Redmi Note 10
+Mi 8
+Mi Mix 2S
+Redmi 6 Pro
+Poco M3
+Mi Note 10
+Redmi 5 Plus
+Redmi Note 5 Pro
+Mi 9T
+Redmi Note 6 Pro
+Poco F2 Pro
+Mi A3
+Redmi 4X
+Mi Mix 3
+Redmi 8
+Poco X2
+Redmi Note 5
+Mi 5X
+Redmi Note 4
+Mi 6
+Mi Max 3
+Redmi 3S
+Redmi Note 3
+Mi 4
+Redmi 2
+Mi Note 3
+Redmi 1S
+Mi 2
+Redmi Note 3 Pro
+Mi Max 2
+Redmi 4 Prime
+Mi Pad 4
+Redmi Y2
+Redmi 5A
+Mi 8 SE
+Redmi Note 2
+Mi 3
+Redmi 4A
+Mi Note 2
+Redmi Y3
+Mi 5
+Mi 8 Lite
+Redmi Note 1
+Mi 9 SE
+Redmi Go
+Mi A1
+Redmi Note 9S
+Mi 10 Lite
+Redmi 9C
+Mi 10 Pro
+Poco M2
+Redmi Note 10 Pro
+Mi 10T
+Redmi 9
+Mi Mix Alpha
+Redmi Note 7 Pro
+Poco C3
+Mi CC9
+Mi 10 Ultra
+Redmi K30
+Redmi K40
+Mi 11 Ultra
+Poco X3 Pro
+Redmi Note 9T
+Redmi 9T
+Mi 10T Pro
+Redmi Note 8 Pro
+Redmi K30 Pro
+Mi 9 Lite
+Redmi 6A
+Poco F3
+Mi 6X
+Redmi S2
+Mi CC9e
+Redmi K20 Pro
+Mi Max
+Redmi Y1
+Mi Pad 5
+Redmi Note 4X
+Mi A2 Lite
+Redmi 5
+Mi A1
+Redmi Pro
+Mi 9 Pro
+Redmi Note 9
+Mi 10S
+Redmi K30 Ultra
+Mi 11X
+Redmi 10
+Mi Note 10 Lite
+Redmi 9 Prime
+Mi 11 Lite
+Redmi Note 10S
+Poco M4 Pro
+Mi 9T Pro
+Redmi Note 8 2021
+Poco M4
+Redmi 9 Power
+Mi 11X Pro
+Redmi Note 11T
+Mi 11i
+Redmi Note 11 Pro
+Redmi 10X
+Mi 10i
+Redmi Note 11S
+Mi 10T Lite
+Redmi Note 7S
+Mi 8 Explorer
+Redmi K30 5G
+Mi 8 Pro
+Redmi 10X Pro
+Poco C31
+Redmi Note 5A
+Mi 5s
+Redmi 10 Prime
+Mi 11T
+Redmi 10A
+Mi 8 EE
+Redmi 10C
+Mi 4i
+Redmi 12C
+Mi 5s Plus
+Redmi 12
+Mi Mix 4
+Redmi 12 Pro
+Mi 4c
+Redmi 12X
+Mi Mix
+Redmi Note 12
+Redmi Note 12 Pro
+Redmi Note 12 Pro+
+Mi 13
+Mi 13 Pro
+Mi 13 Ultra
+Redmi K50
+Redmi K50 Pro
+Poco F4
+Poco X4 Pro
+Redmi 12
+Redmi 12C
+Mi 13 Lite
+Redmi Note 12S
+Redmi K60
+Redmi K60 Pro
+Poco M5
+Poco C55
+Mi Pad 6
+Redmi Note 12 Turbo
